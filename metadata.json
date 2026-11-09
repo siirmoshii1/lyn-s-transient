@@ -1,0 +1,6 @@
+{
+  "name": "Lyn's Baguio Transient Homes",
+  "description": "Cozy mountain vacation transient homes in Baguio City. Comfortable rooms with hot showers, complete kitchen, fast Wi-Fi, and scenic pine views near top Baguio attractions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
